@@ -17,14 +17,9 @@ This is a backend application for a voting system where users can vote for candi
 - MongoDB
 - JSON Web Tokens (JWT) for authentication
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Prince-1501/voting_app.git
-
-
+# Live Demo
+- will deploy soon
+  
 # API Endpoints
 
 ## Authentication
